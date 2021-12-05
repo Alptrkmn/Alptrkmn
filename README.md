@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Turan Alptug Turkmen</h1>
 <h3 align="center">A young frontend developer from Turkey</h3>
 
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Javascript**
+
 - 📫 How to reach me **alptuturan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/turan alptuğ türkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turan alptuğ türkmen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/turan-alptuğ-türkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turan-alptuğ-türkmen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
